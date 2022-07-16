@@ -1,0 +1,23 @@
+{
+  "name": "FloatTabBarController",
+  "version": "1.0.0",
+  "summary": "Easy to use, customizable and floating look UITabBarController alternative with custom animations.",
+  "homepage": "https://github.com/abspr/FloatTabBarController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "authors": {
+    "Hosein Abbaspour": "hosein@me.com"
+  },
+  "source": {
+    "git": "https://github.com/abspr/FloatTabBarController.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Sources/FloatTabBarController/**/*",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,6 @@
+framework module FloatTabBarController {
+  umbrella header "FloatTabBarController-umbrella.h"
+
+  export *
+  module * { export * }
+}
